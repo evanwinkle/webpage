@@ -1,6 +1,6 @@
 ---
 title: "My Website"
-author: "Your Name"
+author: "Elizabeth Van Winkle"
 date: "Last updated on `r Sys.Date()`"
 output:
   html_document:
@@ -16,6 +16,10 @@ Comments in HTML are like this!
 
 
 Hello, Website!
+
+I'm pretty sure I got the right page this time...
+
+Yup it works
 
 # My first section
 

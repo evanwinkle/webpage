@@ -1,7 +1,7 @@
 ---
 title: "About This Website"
-author: "Your name"
-date: "Last updated on `r Sys.Date()`"
+author: "Elizabeth Van Winkle"
+date: "Last Updated On 11/28/18"
 output:
   html_document:
     toc: true
@@ -14,7 +14,13 @@ More about this website.
 
 # Section name
 
-Hello world!
+This isn't the home page is it? 
+
+Oh it is? 
+
+Cool. 
+
+Wait nope this is the about section I think. Anyways I'll try something else.
 
 ## Subsection name
 
